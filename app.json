@@ -1,9 +1,9 @@
 {
   "expo": {
-    "name": "deep-links-movie-tutorial",
-    "slug": "deep-links-movie-tutorial",
+    "name": "ivorypayexposdk",
+    "slug": "ivorypayexposdk",
     "version": "1.0.0",
-    "scheme": "deep-links-movie-tutorial",
+    "scheme": "ivorypayexposdk",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
